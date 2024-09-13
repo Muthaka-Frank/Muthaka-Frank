@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on web development and shii
 - 📫 How to reach me ...Ring Ring
 - 😄 Pronouns: ...
-- ⚡ Fun fact: knock knock :)
+- ⚡ Fun fact: knock knock :)🙂
 
 <!---
 Muthaka-Frank/Muthaka-Frank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
