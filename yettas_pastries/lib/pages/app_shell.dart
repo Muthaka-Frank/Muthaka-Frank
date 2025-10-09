@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import 'cart_page.dart';
-import 'catalog_page.dart';
-import 'profile_page.dart';
+import 'home/cart_page.dart';
+import 'home/menu_page.dart';
+import 'home/profile_page.dart';
 
 class AppShell extends StatefulWidget {
   const AppShell({super.key});
@@ -40,11 +40,7 @@ class _AppShellState extends State<AppShell> {
         controller: _pageController,
         physics: const BouncingScrollPhysics(),
         onPageChanged: (i) => setState(() => _currentIndex = i),
-        children: const [
-          CatalogPage(),
-          CartPage(),
-          ProfilePage(),
-        ],
+        children: const [MenuPage(), CartPage(), ProfilePage()],
       ),
       bottomNavigationBar: NavigationBar(
         selectedIndex: _currentIndex,
