@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Muthaka-Frank
-- 👀 I’m interested in programming
+- 👀 I’m a Programmer
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on web development and shii
+- 💞️ I’m looking to collaborate on web development and Java projects
 - 📫 How to reach me ...Ring Ring
-- 😄 Pronouns: ...
-- ⚡ Fun fact: knock knock :)🙂
+- ⚡ Fun fact: knock knock? :)🙂
 
 <!---
 Muthaka-Frank/Muthaka-Frank is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
