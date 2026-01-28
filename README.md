@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Muthaka-Frank
 - 👀 I’m a Programmer
-- 🌱 I’m currently learning computer science
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on web development and Java projects
 - 📫 How to reach me ...Ring Ring
 - ⚡ Fun fact: knock knock? :)🙂
